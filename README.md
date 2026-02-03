@@ -1,7 +1,5 @@
-<h3 align="center">An Aspiring Data Analyst</h3>
-
+<h3 align="center">An Aspiring Data Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sincobile6&label=Profile%20views&color=0e75b6&style=flat" alt="sincobile6" /> </p>
-
 - 🌱 I’m currently learning **Python, SQL, Excel, Data Visualisation**
 
 - 👯 I’m looking to collaborate on **with beginner friendly data analyst projects**
